@@ -1,0 +1,22 @@
+body{
+background: black;
+text-shadow: #c0c0c0;
+font-size: 150%;
+margin: 15%;
+margin: center;
+
+}
+h2,ul ,ol ,li{
+text-shadow: 1px 2px  #ffffff;
+font-size: 120%;
+
+}
+h3{
+font-size: 120%;
+text-shadow: 1px 2px  blanchedalmond;
+
+}
+main{
+background-color:  cadetblue;
+
+}
